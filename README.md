@@ -29,7 +29,7 @@ Blogbook [bir bootstrap](https://startbootstrap.com/template-overviews/freelance
 Bir profili görüntülemek için `www.site.com/kullaniciadi` olarak belirlenen kullanıcı profilini görüntüleyebilirsiniz.
 ------
 
-Örnek fotoraflar :
+Örnek fotoğraflar :
 
 ![alt text](https://image.ibb.co/fY53rR/screenshot_32.jpg "Example Photo 1")
 ![alt text](https://image.ibb.co/izv3rR/screenshot_33.jpg "Example Photo 2")
