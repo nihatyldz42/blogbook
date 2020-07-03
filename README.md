@@ -10,7 +10,7 @@ Blogbook [bir bootstrap](https://startbootstrap.com/template-overviews/freelance
 
 ## Blogbook Node.JS & MongoDB & EJS altyapısını kullanarak herkes için oluşturulabilir bir blog sağlar.
 
-##### Lütfen app.js içerisindeki `mongoose.connect('mongourl')` fonksiyonuna mongodb url'nizi eklemeyi unutmayın!
+##### Lütfen setting.js içerisindeki `db` fonksiyonuna mongodb url'nizi eklemeyi unutmayın!
 
 ------
 
