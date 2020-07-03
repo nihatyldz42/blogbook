@@ -5,10 +5,12 @@ const mongoose = require('mongoose');
 const sendmail = require('sendmail')();
 const validator = require("email-validator");
 const session = require('express-session');
+var setting = require("./setting.json");
+
 require('mongoose-type-email');
 
 
-mongoose.connect('mongourl');
+mongoose.connect(setting.db);
 
 
 var userpanel = new mongoose.Schema({
